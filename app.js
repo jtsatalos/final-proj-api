@@ -61,7 +61,7 @@ const db = {
       url: "https://hicuties.com/",
       address: "710 N Heliotrope Dr, Los Angeles, CA 90029",
       body:
-        "In most cities, the lion’s share of LGBTQ-centered establishments are bars and clubs that primarily cater to gay men who are cisgender, meaning their gender identity matches the sex they were assigned at birth. Greater L.A. is no exception [...] Given this void, Cuties has quickly become the daytime darling of L.A.’s queer social ecosystem."
+        "In most cities, the lion’s share of LGBTQ-centered establishments are bars and clubs that primarily cater to gay men who are cisgender which means their gender identity matches the sex they were assigned at birth. Greater L.A. is no exception [...] Given this void, Cuties has quickly become the daytime darling of L.A.’s queer social ecosystem."
     }
   ]
 };
