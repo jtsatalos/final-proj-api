@@ -53,7 +53,7 @@ const db = {
       url: "https://lalgbtcenter.org/about-the-center/mi-centro",
       address: "553 S Clarence St, Los Angeles, CA 90033",
       body:
-        "ince 1969 the Los Angeles LGBT Center has cared for, championed, and celebrated LGBT individuals and families in Los Angeles and beyond. Today the Center's nearly 700 employees provide services for more LGBT people than any other organization in the world, offering programs, services, and global advocacy that span four broad categories: Health, Social Services and Housing, Culture and Education, Leadership and Advocacy."
+        "Since 1969 the Los Angeles LGBT Center has cared for, championed, and celebrated LGBT individuals and families in Los Angeles and beyond. Today the Center's nearly 700 employees provide services for more LGBT people than any other organization in the world, offering programs, services, and global advocacy that span four broad categories: Health, Social Services and Housing, Culture and Education, Leadership and Advocacy."
     },
     {
       id: 6,
