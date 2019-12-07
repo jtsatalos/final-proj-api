@@ -29,7 +29,7 @@ const db = {
       url: "https://mytranswellness.org/",
       address: "3055 Wilsshire Blvd., Suite 360 Los Angeles, CA 90010",
       body:
-        "The Trans Wellness Center (TWC) provides comprehensive resources and services for transgender and non-binary people under one roof."
+        "The Trans Wellness Center (TWC) provides comprehensive resources and services for transgender and non-binary people under one roof. The 3,000-square-foot center is the first-of-its-kind in the United States, with six local organizations joining forces to create this new home for wellness. The TWC was conceived and created by community leaders and allies, honoring their lifelong dedication to raise awareness about the needs and the contributions of the transgender community."
     },
     {
       id: 3,
@@ -43,7 +43,7 @@ const db = {
       id: 4,
       name: "Ostbahnhof",
       url: "https://www.ostbahnhof.club/",
-      address: "",
+      address: "n/a",
       body:
         "OSTBAHNHOF creates safer spaces where all LGBTQI people revel in high sensory life. Part of the proceeds generated from our events are donated to LGBTQI freedom organizations and / or queer people in need."
     },
@@ -52,7 +52,8 @@ const db = {
       name: "Mi Centro - Los Angeles LGBT Center",
       url: "https://lalgbtcenter.org/about-the-center/mi-centro",
       address: "553 S Clarence St, Los Angeles, CA 90033",
-      body: "something else here..."
+      body:
+        "ince 1969 the Los Angeles LGBT Center has cared for, championed, and celebrated LGBT individuals and families in Los Angeles and beyond. Today the Center's nearly 700 employees provide services for more LGBT people than any other organization in the world, offering programs, services, and global advocacy that span four broad categories: Health, Social Services and Housing, Culture and Education, Leadership and Advocacy."
     },
     {
       id: 6,
